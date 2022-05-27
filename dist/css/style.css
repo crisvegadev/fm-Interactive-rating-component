@@ -127,6 +127,7 @@ color: hsl(0, 0%, 100%);
 .thanks-svg{
     width: 100%;
     height: auto;
+    text-align: center;
 }
 
 .thanks-svg svg{
